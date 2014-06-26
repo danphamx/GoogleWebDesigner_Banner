@@ -1,7 +1,7 @@
 Phamuelson
 ==============
 
-I made an interactive extensible ad banner for my cat using Google Web Designer!
+I made an interactive expandable ad banner for my cat using Google Web Designer!
 --------------
 
 
